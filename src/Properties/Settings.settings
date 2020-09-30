@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Andriks.HueApiDemo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8ym0WVdJB0eSGzA5RWKRwMTaAnd7xJtOJd4vy3X6iyg=</Value>
+    </Setting>
+    <Setting Name="SearchTimeout" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="LocationDisplayMask" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Group {0} ({1}, {2}, {3}.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
